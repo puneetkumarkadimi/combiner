@@ -2,6 +2,8 @@ use warnings;
 use strict;
 use Integrate;
 
+
+# Making this script available on git      
 =start
 	# Digit codes for Algo
 	1 => 'MassWiz',
